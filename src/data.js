@@ -96,6 +96,16 @@ function chillHop() {
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
       active: false,
+    },
+    {
+      name: "Full circle",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2022/05/3aaa079444cf9c1d4e0a1f53947321b29ff554c0-1024x1024.jpg",
+      artist: "Moods",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=101765",
+      color: ["#D89901", "#DBCFB7"],
+      id: uuidv4(),
+      active: false,
     }
   ]
 }
